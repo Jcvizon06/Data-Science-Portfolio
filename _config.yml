@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vizon John Carlo C."
+title                    : "JC Vizon"
 title_separator          : "-"
-name                     : "JC Vizon"
-description              : "Data Science Portfolio"
+name                     : "John Carlo Vizon"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,13 +101,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vizon, John Carlo C."
-  avatar           : "/images/jcpic.jpg" 
-  bio              : "Data Science Portfolio"
-  location         : "Manila, PH"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   links:
-    - label: "jcvizon@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -116,10 +116,10 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: ""
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "jcvizon06"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
@@ -286,13 +286,3 @@ defaults:
       comments: # true
       share: true
       related: true
-      
-  #_pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  
-      
