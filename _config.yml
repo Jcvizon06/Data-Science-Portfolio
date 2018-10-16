@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JC Vizon"
-title_separator          : "-"
-name                     : "John Carlo Vizon"
-description              : "An amazing website."
+title                    : "Data Science Portfolio"
+title_separator          : " "
+name                     : #"John Carlo Vizon"
+description              : "AI={DS-ML-DP}"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Vizon John Carlo C."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"C:\Users\RV-PC\jcvizon.github.io\_images\jcpic.jpg"
   bio              : "AI Engineer in the making"
   location         : "Manila PH"
   email            : "jcvizon@gmail.com"
@@ -286,3 +286,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  #pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      
+  
