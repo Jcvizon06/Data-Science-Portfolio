@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archives
 permalink: /exploratory-data-analysis/
 title: "Data Analysis by Tags"
 author_profile: true
