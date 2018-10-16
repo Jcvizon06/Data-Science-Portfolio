@@ -87,7 +87,7 @@ author:
   name             : "JC Vizon"
   avatar           : "/images/jcpic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Engineer in the making"
-  location         : "Manila PH"
+  location         : "Manila, PH"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
