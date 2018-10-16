@@ -34,9 +34,9 @@ Here's a numbered list:
 
 Python code block:
 ```python
-    import pandas as pd
-	import numpy as np
-	import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 ```
 
 R code block:
