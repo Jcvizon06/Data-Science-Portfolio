@@ -34,11 +34,9 @@ Here's a numbered list:
 
 Python code block:
 ```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
+    import pandas as pd
+	import numpy as np
+	import matplotlib.pyplot as plt
 ```
 
 R code block:
