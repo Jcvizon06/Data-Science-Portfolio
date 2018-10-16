@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "JC Vizon"
-  avatar           : "/images/jcpic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Engineer in the making"
   location         : "Manila, PH"
   email            :
