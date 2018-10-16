@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
+  - title: "Project Portfolio"
     url: /machine-learning/
-  - title: "EDA"
-    url: /exploratory-data-analysis/
+  #- title: "EDA"
+  #  url: /exploratory-data-analysis/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
