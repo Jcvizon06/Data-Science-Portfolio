@@ -265,7 +265,7 @@ defaults:
   # _archive
   - scope:
       path: ""
-      type: archive
+      type: archives
     values:
       layout: single
       author_profile: true
